@@ -1,0 +1,21 @@
+# Copyright (c) Lukas Pellny (Server Software)
+name: Serversoftware
+version: '${project.version}'
+main: de.lukaspellny.serversoftware.Serversoftware
+api-version: 1.19
+authors: [ Lukas_Pellny ]
+
+commands:
+  id:
+  setspawn:
+  spawn:
+  checkid:
+  spy:
+  ban:
+  unban:
+  tempban:
+  ipban:
+  fly:
+  gamemode:
+    aliases: [gm]
+  heal:
